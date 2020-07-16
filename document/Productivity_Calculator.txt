@@ -1,0 +1,8 @@
+NON-PRODUCTIVE
+sleep 6
+eat 2
+usephone 2
+PRODUCTIVE
+read 2
+study 2
+exercise 1
